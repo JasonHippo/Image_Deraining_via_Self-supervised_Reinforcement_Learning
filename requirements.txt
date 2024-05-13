@@ -1,0 +1,14 @@
+numpy
+opencv-python==4.5.3.56
+chainer==7.8.1
+chainerrl==0.8.0
+cupy-cuda114 
+future
+tqdm
+torch
+tensorboard
+brisque
+numba
+gym==0.22
+protobuf==3.20.1
+scikit-image
