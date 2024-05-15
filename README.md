@@ -56,3 +56,6 @@ python main_multiple.py --mode 'train' --data_path './dataset/Rain100L/training.
 python main_multiple.py --mode 'test' --data_path './dataset/Rain100L/testing.txt' --save_dir_path './Results/Rain100L/test/SRL-Derain_multiple/derained_result/' --model_weight_path './Results/Rain100L/test/SRL-Derain_multiple/model_weight/last/model.npz' 
 
 ```
+
+# Demo
+The demo video is available at [google drive](https://drive.google.com/file/d/1YuELv-RMYLfuZw0ceTaVOH551ZCfWuBK/view?usp=sharing).
